@@ -6,7 +6,7 @@ It also has the ability to take 1MB of DRAM on board instead of the harder to so
 ![PCB](PCB.png?raw=True)
 
 ### Assembly Steps
-1. Solder the DRAMs (or if using the Amiga's ram, cut and set the jumpers to ON and go to step 3)
+1. Solder the DRAMs (or if using the Amiga's ram, cut and set the jumpers to "Enabled" and go to step 3)
 
 2. Solder the Capacitors (Only fit VBB capacitor if your Agnus says VBB on the top)
 
