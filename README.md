@@ -3,6 +3,14 @@
 The 8375 Agnus needed for Amiga 500+ is getting expensive and scarce so this adapter is designed to allow you to fit the much more common 8372A and other 1MB Agnuses from the A500
 It also has the ability to take 1MB of DRAM on board instead of the harder to source DIP20 DRAMs needed for an Amiga
 
+
+### Frequently Asked Questions:
+Q. Will this give me 2MB chip ram?<br />
+A. No, the 8372 Agnus supports a maximum of 1MB chip ram
+
+Q. Does my Amiga need any ram chips on-board?<br />
+A. If you fit the RAM chips specified to the Diet Agnus adapter then your mainboard needs no working chip ram (So if you're building an [A500++](https://www.tindie.com/products/bobsbits/a500-amiga-500-replica-pcb/) you can leave those out)
+
 ![PCB](PCB.png?raw=True)
 
 ### Assembly Steps
