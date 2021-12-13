@@ -46,6 +46,12 @@ The board must be oriented so that the RAM sits to the right of Agnus, with Agnu
 ## NTSC
 Close the NTSC jumper to set your Agnus to NTSC mode (Only if the Agnus isn't marked with VBB!)
 
+## Jumpers
+The "Amiga RAM" jumpers control whether the various RAM control signals are routed to the Amiga's original ram or to the ram chips on the board.
+
+If you have fitted the 2 RAM chips to this adapter you must leave the jumpers at the default setting.
+
+If you instead want to make use of the Amiga's RAM chips you can cut and set all 4 of the jumpers to "Enabled" and leave off the 2x ram chips.
 
 
 
